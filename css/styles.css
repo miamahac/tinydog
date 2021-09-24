@@ -1,0 +1,174 @@
+body {
+  margin:0;
+  font-family: 'Montserrat', 'Ubuntu', sans-serif;
+
+}
+
+#title {
+  background-color: #ff4c68;
+  }
+
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.raz {
+  padding-top: 100px;
+}
+
+.naslovic {
+  font-weight: 900;
+  color: #fff;
+  font-size: 3.5rem;
+  line-height: 1.5
+}
+
+
+
+.marg-nav{
+  padding-top: 50px;
+}
+
+.nav-item {
+    padding-right: 1rem;
+    padding-left: 1rem;
+    font-size: 1.2rem;
+}
+
+.navbar-brand {
+  font-family: Ubuntu;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.navbar {
+  padding-left: 0;
+}
+
+.download-button {
+margin:5% 2% 0 0;
+}
+
+.rotated {
+  transform: rotate(25deg); /* Equal to rotateZ(45deg) */
+  position: relative;
+  width: 60%;
+  left: 10%;
+}
+
+#features {
+  text-align: center;
+  padding: 100px 0;
+  background-color: #fff;
+  position: relative;
+  z-index:1;
+  margin-top: -250px;
+
+
+}
+
+.features-icons {
+  color:#ef8172;
+  padding-bottom: 1.2rem;
+}
+
+.features-icons:hover {
+  color:#ff4c68;
+  padding-bottom: 1.2rem;
+}
+
+/* .raz-2 {
+  padding-bottom: 2.5rem;
+} */
+
+h3 {
+  font-family: Montserrat;
+  font-weight: bold;;
+  font-size: 1.5rem;
+}
+
+.podtitle {
+color: #8f8f8f;
+}
+
+
+#testimonials {
+  background-color: #ef8172;
+  text-align: center;
+  color: #fff;
+  padding: 100px 0;
+
+}
+
+.testimonial-image {
+  border-radius: 100%;
+  width: 8%;
+  margin-top: 2%;
+}
+
+.test-title {
+  font-weight: 700;
+  padding:0 20%;
+  line-height: 1.5;
+}
+
+.mak {
+  margin-left: 2%;
+}
+
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+}
+
+.logo {
+  width: 20%;
+  padding: 100px 25px;
+}
+
+.kartica {
+  margin-right: 10%;
+}
+
+#pricing{
+  padding: 100px 0;
+  text-align: center;
+}
+
+.pricing-column {
+  padding:3% 2%;
+}
+
+
+#cta {
+background-color: #ff4c68;
+text-align: center;
+padding: 100px 0;
+}
+
+#cta h3 {
+  color: #fff;
+  font-size: 2.5rem;
+}
+
+#footer {
+  padding: 100px 0 50px;;
+  text-align: center;
+}
+
+.footer-icon {
+  padding-left:10px;
+  padding-right:10px;
+}
+
+.copy {
+  color:#grey;
+  font-size: .8rem;
+  padding-top: 20px;
+}
